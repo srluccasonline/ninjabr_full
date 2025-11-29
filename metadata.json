@@ -1,0 +1,5 @@
+{
+  "name": "NINJABR Admin",
+  "description": "Painel administrativo para compartilhamento de perfis anti-detect.",
+  "requestFramePermissions": []
+}
